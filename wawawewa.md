@@ -1,3 +1,11 @@
-# Wawawewa
+# Hello World
 
-This is new content created by Grok.
+## Python
+```python
+print("Hello, World!")
+```
+
+## JavaScript
+```javascript
+console.log("Hello, World!");
+```
